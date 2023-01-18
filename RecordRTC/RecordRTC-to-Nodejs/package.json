@@ -48,7 +48,7 @@
   "_id": "recordrtc-nodejs@",
   "_from": "recordrtc-nodejs@",
   "dependencies": {
-    "formidable": "latest",
+    "formidable": "2.1.2",
     "mime": "latest",
     "recordrtc": "latest"
   }
